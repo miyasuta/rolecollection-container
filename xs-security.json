@@ -1,5 +1,5 @@
 {
-    "xsappname": "xsuaaparent",
+    "xsappname": "rolecollection-container",
     "tenant-mode": "dedicated",
     "role-collections": [
         {
